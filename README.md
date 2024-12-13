@@ -12,10 +12,36 @@
 
 # My abilities
 
-+ Web developing (HTML5, CSS, JS, .NET Razor and Blazor)
+### Web developing
 
-+ Exploit (PowerShell, Bash Shell, Batch Script, Command Prompt)
++ HTML5
++
++ CSS
++
++ JS
++
++ .NET Razor and Blazor
 
-+ Application Developing (C#, Python, Java)
+### Exploit
 
-+ Database (SQL Server, MySQL)
++ PowerShell
++
++ Bash Shell
++
++ Batch Script
++
++ Command Prompt
+
+### Application Developing
+
++ C#
++
++ Python
++
++ Java
+
+# Working platforms
+
++ SQL Server
++
++ MySQL
