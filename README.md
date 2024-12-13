@@ -7,13 +7,13 @@
 
 # My climbing targets
 
-+ Cyber security
++ | Cyber security | <center><img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Cyber-Security.png" style="width: 48px; height: 48px;"></center> |
+  |----------------|------------------------------------------------------------------------------------------------------------------------------------------|
 
-  <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Cyber-Security.png" style="width: 48px; height: 48px;">
++ | Quantum World | <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Quantom.png" style="width: 48px; height: 48px;"> |
+  |---------------|------------------------------------------------------------------------------------------------------------------|
 
-+ Quantom World
-
-  <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Quantom.png" style="width: 48px; height: 48px;">
+  
 
 # My abilities
 
@@ -31,27 +31,23 @@
 
 ### Application Developing
 
-+ C#
-+
-+ Python
-+
-+ Java
+| C# | Python | Java |
+|----|--------|------|
 
 # Working platform and tools
 
 ### Working operation systems
 
-+ Windows
-
-  <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Windows.png" style="width: 48px; height: 48px;">
+| Windows | <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Windows.png" style="width: 48px; height: 48px;"> |
+  |---------------|------------------------------------------------------------------------------------------------------------|
 
   > .NET Framework
-  >
+  > 
   > .NET Core
-  >
+  > 
   > .NET SDK
 
-  <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/DotNET.svg" style="width: 48px; height: 48px;">
+  | <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/DotNET.svg" style="width: 48px; height: 48px;"> |
 
 + Linux Kernel
 
