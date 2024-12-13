@@ -29,8 +29,8 @@
 + Markdown
 <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Markdown.png" style="width: 48px; height: 48px;">
 
-+ ASP.NET
-<img src="https://github.com/b-daarr/b-daarr/blob/main/resource/DotNET-Core.png" style="width: 48px; height: 48px;">
++ ASP.NET (Razor and Blazor)
+<img src="https://github.com/b-daarr/b-daarr/blob/main/resource/DotNET.svg" style="width: 48px; height: 48px;">
 
 ### Exploit
 
@@ -56,9 +56,9 @@
 
 + Windows
 
-  > .NET framework
+  > .NET Framework
   >
-  > .NET core
+  > .NET Core
   >
   > .NET SDK
 
