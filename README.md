@@ -10,11 +10,11 @@
 
 + Cyber security
 
-<img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Cyber-Security.png" alt="Space Company" style="width: 48px; height: 48px;"> 
+<img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Cyber-Security.png" style="width: 48px; height: 48px;"> 
 
 + Quantom World
 
-<img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Quantom.png" alt="Space Company" style="width: 48px; height: 48px;"> 
+<img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Quantom.png" style="width: 48px; height: 48px;"> 
 
 # My abilities
 
@@ -26,11 +26,11 @@
 +
 + JavaScript
 +
-+ .NET Razor and Blazor
-+
 + Markdown
++
++ ASP.NET (Razor and Blazor)
 
-<img src="https://github.com/b-daarr/b-daarr/blob/main/resource/HTML5.png" alt="Space Company" style="width: 48px; height: 48px;"><img src="https://github.com/b-daarr/b-daarr/blob/main/resource/CSS3.png" alt="Space Company" style="width: 48px; height: 48px;"><img src="https://github.com/b-daarr/b-daarr/blob/main/resource/JavaScript.png" alt="Space Company" style="width: 48px; height: 48px;">
+<img src="https://github.com/b-daarr/b-daarr/blob/main/resource/HTML5.png" style="width: 48px; height: 48px;"><img src="https://github.com/b-daarr/b-daarr/blob/main/resource/CSS3.png" style="width: 48px; height: 48px;"><img src="https://github.com/b-daarr/b-daarr/blob/main/resource/JavaScript.png" style="width: 48px; height: 48px;"><img src="https://github.com/b-daarr/b-daarr/blob/main/resource/DotNET.svg" style="width: 48px; height: 48px;">
 
 ### Exploit
 
