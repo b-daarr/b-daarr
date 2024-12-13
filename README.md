@@ -19,25 +19,9 @@
 
 ### Web developing
 
-+ HTML5
+| HTML5 | CSS3 | JavaScript | Markdown |
 
-  <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/HTML5.png" style="width: 48px; height: 48px;">
-
-+ CSS3
-
-  <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/CSS3.png" style="width: 48px; height: 48px;">
-
-+ JavaScript
-
-  <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/JavaScript.png" style="width: 48px; height: 48px;">
-
-+ Markdown
-
-  <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Markdown.png" style="width: 48px; height: 48px;">
-
-+ ASP.NET Core
-
-  <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/DotNET-Core.png" style="width: 48px; height: 48px;">
+  <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/HTML5.png" style="width: 48px; height: 48px;"><img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Markdown.png" style="width: 48px; height: 48px;"><img src="https://github.com/b-daarr/b-daarr/blob/main/resource/CSS3.png" style="width: 48px; height: 48px;"><img src="https://github.com/b-daarr/b-daarr/blob/main/resource/JavaScript.png" style="width: 48px; height: 48px;">
 
 ### Exploit
 
