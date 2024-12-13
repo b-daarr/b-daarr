@@ -8,7 +8,7 @@
 
 <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/space.png" alt="Space Company" style="width: 48px; height: 48px; border-radius: 25px;">
 
-<h1>My climbing targets</h1>
+# My climbing targets
 
 | Cyber security | Quantum World |
 |----------------|---------------|
@@ -62,7 +62,7 @@
 + [`GitHub`](https://github.com/)
 + [`Git`](https://git-scm.com/)
 
-<h1><img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Git.gif" style="width: 48px; height: 48px;" /> Link to me</h1>
+# <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Git.gif" style="width: 48px; height: 48px;" /> Link to me
 
 | [`GitHub`](https://github.com/b-daarr/) | [`Telegram`](https://t.me/b_daarr/) | [`YouTube`](https://youtube.com/@b_daarr) | [`SoundCloud`](https://on.soundcloud.com/DvLfxho9rDwbGLAR8) | [`Steam`](https://steamcommunity.com/profiles/76561199808513294) | [`Reddit`](https://reddit.com/u/b-daarr/) | Email: b.daarr@outlook.com |
 |-----------------------------------------|-------------------------------------|-------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------------|-------------------------------------------|---------------------------------|
