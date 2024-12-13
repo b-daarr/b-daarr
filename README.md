@@ -4,6 +4,8 @@
 >
 > I made CShark project to internet sanction bypassing. [more](https://github.com/b-daarr/cshark)
 
+<img src="https://github.com/b-daarr/b-daarr/blob/main/resource/space.png" alt="Space Company" style="width: 48px; height: 48px;"> 
+
 # My climbing targets
 
 + Cyber security
