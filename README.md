@@ -10,7 +10,11 @@
 
 + Cyber security
 
+<img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Cyber-Security.png" alt="Space Company" style="width: 48px; height: 48px;"> 
+
 + Quantom World
+
+<img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Cyber-Security.png" alt="Space Company" style="width: 48px; height: 48px;"> 
 
 # My abilities
 
