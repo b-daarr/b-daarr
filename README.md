@@ -6,8 +6,7 @@
 >
 > I made CShark project to internet sanction bypassing. [`More about CShark`](https://github.com/b-daarr/cshark)
 
-| <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/space.png" alt="Space Company" style="width: 48px; height: 48px; border-radius: 25px;"> |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+<img src="https://github.com/b-daarr/b-daarr/blob/main/resource/space.png" alt="Space Company" style="width: 48px; height: 48px; border-radius: 25px;">
 
 # My climbing targets
 
@@ -55,19 +54,12 @@
 ### Tool Applications
 
 + [`SQL Server`](https://learn.microsoft.com/en-us/sql/ssms/)
-+
 + [`MySQL`](https://www.mysql.com/)
-+
 + [`Visual Studio`](https://visualstudio.microsoft.com/)
-+
 + [`Visual Studio Code`](https://code.visualstudio.com/)
-+
 + [`Jetbrains IntellijIdea`](https://www.jetbrains.com/idea/)
-+
 + [`Jetbrains PyCharm`](https://www.jetbrains.com/pycharm/)
-+
 + [`GitHub`](https://github.com/)
-+
 + [`Git`](https://git-scm.com/)
 
   # Link to me
