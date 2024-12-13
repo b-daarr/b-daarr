@@ -17,9 +17,11 @@
 
 ### Web developing
 
-+ HTML5 <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/HTML5.png" style="width: 48px; height: 48px;">
++ HTML5
+<img src="https://github.com/b-daarr/b-daarr/blob/main/resource/HTML5.png" style="width: 48px; height: 48px;">
 
-+ CSS3 <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/CSS3.png" style="width: 48px; height: 48px;">
++ CSS3
+<img src="https://github.com/b-daarr/b-daarr/blob/main/resource/CSS3.png" style="width: 48px; height: 48px;">
 
 + JavaScript
 <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/JavaScript.png" style="width: 48px; height: 48px;">
