@@ -3,7 +3,7 @@
 > My name is b‿daarr (in Persian means 'being awake') and a part of Space Company!
 >
 > I made CShark project to internet sanction bypassing. [`More about CShark`](https://github.com/b-daarr/cshark)
-<img src="https://github.com/b-daarr/b-daarr/blob/main/resource/space.png" alt="Space Company" style="width: 48px; height: 48px;">
+<center><img src="https://github.com/b-daarr/b-daarr/blob/main/resource/space.png" alt="Space Company" style="width: 48px; height: 48px; border-radius: 25px;"></center>
 
 # My climbing targets
 
