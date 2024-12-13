@@ -2,35 +2,35 @@
 
 > My name is b‿daarr (in Persian means 'being awake') and a part of Space Company!
 >
-> I made CShark project to internet sanction bypassing. [more](https://github.com/b-daarr/cshark)
-
+> I made CShark project to internet sanction bypassing. [`More about CShark`](https://github.com/b-daarr/cshark)
 <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/space.png" alt="Space Company" style="width: 48px; height: 48px;"> 
 
 # My climbing targets
 
 + Cyber security
-
-<img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Cyber-Security.png" alt="Space Company" style="width: 48px; height: 48px;"> 
+<img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Cyber-Security.png" style="width: 48px; height: 48px;"> 
 
 + Quantom World
-
-<img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Quantom.png" alt="Space Company" style="width: 48px; height: 48px;"> 
+<img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Quantom.png" style="width: 48px; height: 48px;"> 
 
 # My abilities
 
 ### Web developing
 
 + HTML5
-+
-+ CSS
-+
-+ JavaScript
-+
-+ .NET Razor and Blazor
-+
-+ Markdown
+<img src="https://github.com/b-daarr/b-daarr/blob/main/resource/HTML5.png" style="width: 48px; height: 48px;">
 
-<img src="https://github.com/b-daarr/b-daarr/blob/main/resource/HTML5.png" alt="Space Company" style="width: 48px; height: 48px;"><img src="https://github.com/b-daarr/b-daarr/blob/main/resource/CSS3.png" alt="Space Company" style="width: 48px; height: 48px;"><img src="https://github.com/b-daarr/b-daarr/blob/main/resource/JavaScript.png" alt="Space Company" style="width: 48px; height: 48px;">
++ CSS3
+<img src="https://github.com/b-daarr/b-daarr/blob/main/resource/CSS3.png" style="width: 48px; height: 48px;">
+
++ JavaScript
+<img src="https://github.com/b-daarr/b-daarr/blob/main/resource/JavaScript.png" style="width: 48px; height: 48px;">
+
++ Markdown
+<img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Markdown.png" style="width: 48px; height: 48px;">
+
++ ASP.NET (Razor and Blazor)
+<img src="https://github.com/b-daarr/b-daarr/blob/main/resource/DotNET.svg" style="width: 48px; height: 48px;">
 
 ### Exploit
 
