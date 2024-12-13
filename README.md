@@ -55,7 +55,7 @@
 ### Working operation systems
 
 + Windows
-  <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Windows.svg" style="width: 48px; height: 48px;">
+<img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Windows.png" style="width: 48px; height: 48px;">
   
   > .NET Framework
   >
@@ -66,12 +66,12 @@
 <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/DotNET.svg" style="width: 48px; height: 48px;">
 
 + Linux Kernel
-  <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Linux.svg" style="width: 48px; height: 48px;">
+  <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Linux.png" style="width: 48px; height: 48px;">
 
   > Debian base dists
 
 + Android
-  <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Android.svg" style="width: 48px; height: 48px;">
+  <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Android.png" style="width: 48px; height: 48px;">
 
 ### Working applications
 
