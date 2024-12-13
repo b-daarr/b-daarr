@@ -1,15 +1,18 @@
+<center><img src="https://github.com/b-daarr/b-daarr/blob/main/resource/footer.svg" style="width: 100%;" /></center>
+
 # About me
 
 > My name is b‿daarr (in Persian means 'being awake') and a part of Space Company!
 >
 > I made CShark project to internet sanction bypassing. [`More about CShark`](https://github.com/b-daarr/cshark)
-<center><img src="https://github.com/b-daarr/b-daarr/blob/main/resource/space.png" alt="Space Company" style="width: 48px; height: 48px; border-radius: 25px;"></center>
+
+| <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/space.png" alt="Space Company" style="width: 48px; height: 48px; border-radius: 25px;"> |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 # My climbing targets
 
-| <center><img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Cyber-Security.png" style="width: 48px; height: 48px;"></center> | Cyber security |
-|------------------------------------------------------------------------------------------------------------------------------------------|----------------|
-| <center><img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Quantom.png" style="width: 48px; height: 48px;"></center>        | Quantum World  |
+| Cyber security | Quantum World |
+|----------------|---------------|
 
 # My abilities
 
@@ -28,59 +31,49 @@
 | C# | Python | Java |
 |----|--------|------|
 
-# Working platform and tools
+# About my programming
 
-### Working operation systems
+### OS Developing Applications
 
-| Windows | <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Windows.png" style="width: 48px; height: 48px;"> |
-  |---------|------------------------------------------------------------------------------------------------------------------|
+| Windows |
+|---------|
 
-> .NET Framework
+> [`.NET Framework`](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
 >
-> .NET Core
->
-> .NET SDK
+> [`.NET SDK`](https://dotnet.microsoft.com/en-us/download)
 
-| <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/DotNET.svg" style="width: 48px; height: 48px;"> |
+| Linux |
+|-------|
 
-+ Linux Kernel
+> Debian base dists
 
-  <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Linux.png" style="width: 48px; height: 48px;">
+| Android |
+|---------|
 
-  > Debian base dists
+> Android app
 
-+ Android
+### Tool Applications
 
-  <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Android.png" style="width: 48px; height: 48px;">
-
-### Working applications
-
-+ SQL Server
++ [`SQL Server`](https://learn.microsoft.com/en-us/sql/ssms/)
 +
-+ MySQL
++ [`MySQL`](https://www.mysql.com/)
 +
-+ Visual Studio
++ [`Visual Studio`](https://visualstudio.microsoft.com/)
 +
-+ Visual Studio Code
++ [`Visual Studio Code`](https://code.visualstudio.com/)
 +
-+ Jetbrains IntellijIdea
++ [`Jetbrains IntellijIdea`](https://www.jetbrains.com/idea/)
 +
-+ Jetbrains PyCharm
++ [`Jetbrains PyCharm`](https://www.jetbrains.com/pycharm/)
 +
-+ GitHub
++ [`GitHub`](https://github.com/)
 +
-+ Git
++ [`Git`](https://git-scm.com/)
 
   # Link to me
 
-  ### GitHub
+<center><img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Git.gif" style="width: 100%;" /></center>
 
-  ### Telegram
-
-  ### YouTube
-
-  ### SoundCloud
-
-  ### Steam
-
-  ### Reddit
+| GitHub                                          | Telegram                                    | YouTube                                           | SoundCloud         | Steam         | Reddit         | Email               |
+|-------------------------------------------------|---------------------------------------------|---------------------------------------------------|--------------------|---------------|----------------|---------------------|
+| [`GitHub b-daarr`](https://github.com/b-daarr/) | [`Telegram b-daarr`](https://t.me/b_daarr/) | [`YouTube b-daarr`](https://youtube.com/@b_daarr) | SoundCloud b-daarr | Steam b-daarr | Reddit b-daarr | b.daarr@outlook.com |
