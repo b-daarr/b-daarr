@@ -7,11 +7,11 @@
 
 # My climbing targets
 
-+ | Cyber security | <center><img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Cyber-Security.png" style="width: 48px; height: 48px;"></center> |
-  |----------------|------------------------------------------------------------------------------------------------------------------------------------------|
+|<center><img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Cyber-Security.png" style="width: 48px; height: 48px;"></center> | Cyber security |
+|-----------------------------------------------------------------------------------------------------------------------------------------|----------------|
 
-+ | Quantum World | <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Quantom.png" style="width: 48px; height: 48px;"> |
-  |---------------|------------------------------------------------------------------------------------------------------------------|
+| <center><img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Quantom.png" style="width: 48px; height: 48px;"></center> | Quantum World |
+|-----------------------------------------------------------------------------------------------------------------------------------|---------------|
 
   
 
