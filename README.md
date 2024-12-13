@@ -7,7 +7,8 @@
 
 # My climbing targets
 
-|+ Cyber security|![Cyber](https://github.com/b-daarr/b-daarr/blob/main/resource/Cyber-Security.png)|
++ Cyber security
+<img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Cyber-Security.png" style="width: 48px; height: 48px;"> 
 
 + Quantom World
 <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Quantom.png" style="width: 48px; height: 48px;"> 
