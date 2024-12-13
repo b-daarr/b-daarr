@@ -7,13 +7,11 @@
 
 # My climbing targets
 
-|<center><img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Cyber-Security.png" style="width: 48px; height: 48px;"></center> | Cyber security |
-|-----------------------------------------------------------------------------------------------------------------------------------------|----------------|
+| <center><img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Cyber-Security.png" style="width: 48px; height: 48px;"></center> | Cyber security |
+|------------------------------------------------------------------------------------------------------------------------------------------|----------------|
 
 | <center><img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Quantom.png" style="width: 48px; height: 48px;"></center> | Quantum World |
 |-----------------------------------------------------------------------------------------------------------------------------------|---------------|
-
-  
 
 # My abilities
 
@@ -25,9 +23,9 @@
 
 ### Exploit
 
-| PowerShell                                                                                                                      | Bash Shell                                                                                                                         | Batch Script                                                                                                                   | Command Prompt                                                                                                                       |
-|---------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| <center><img src="https://github.com/b-daarr/b-daarr/blob/main/resource/HTML5.png" style="width: 48px; height: 48px;"></center> | <center><img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Markdown.png" style="width: 48px; height: 48px;"></center> | <center><img src="https://github.com/b-daarr/b-daarr/blob/main/resource/CSS3.png" style="width: 48px; height: 48px;"></center> | <center><img src="https://github.com/b-daarr/b-daarr/blob/main/resource/JavaScript.png" style="width: 48px; height: 48px;"></center> |
+| PowerShell                                                                                                                           | Bash Shell                                                                                                                         | Batch Script                                                                                                                   | Command Prompt                                                                                                                       |
+|--------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| <center><img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Powershell.svg" style="width: 48px; height: 48px;"></center> | <center><img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Markdown.png" style="width: 48px; height: 48px;"></center> | <center><img src="https://github.com/b-daarr/b-daarr/blob/main/resource/CSS3.png" style="width: 48px; height: 48px;"></center> | <center><img src="https://github.com/b-daarr/b-daarr/blob/main/resource/JavaScript.png" style="width: 48px; height: 48px;"></center> |
 
 ### Application Developing
 
@@ -39,15 +37,15 @@
 ### Working operation systems
 
 | Windows | <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Windows.png" style="width: 48px; height: 48px;"> |
-  |---------------|------------------------------------------------------------------------------------------------------------|
+  |---------|------------------------------------------------------------------------------------------------------------------|
 
-  > .NET Framework
-  > 
-  > .NET Core
-  > 
-  > .NET SDK
+> .NET Framework
+>
+> .NET Core
+>
+> .NET SDK
 
-  | <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/DotNET.svg" style="width: 48px; height: 48px;"> |
+| <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/DotNET.svg" style="width: 48px; height: 48px;"> |
 
 + Linux Kernel
 
