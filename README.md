@@ -1,7 +1,7 @@
 # About me
 
 > My name is b‿daarr (in Persian means 'being awake') and a part of Space Company!
-
+>
 > I made CShark project to internet sanction bypassing. [more](https://github.com/b-daarr/cshark)
 
 # My climbing targets
@@ -21,6 +21,8 @@
 + JS
 +
 + .NET Razor and Blazor
++
++ Markdown
 
 ### Exploit
 
@@ -40,8 +42,50 @@
 +
 + Java
 
-# Working platforms
+# Working platform and tools
+
+### Working operation systems
+
++ Windows
+
+  > .NET framework
+  >
+  > .NET core
+  >
+  > .NET SDK
+
++ Gnu Linux
+
+  > Debian base dists
+
++ Android
+
+### Working applications
 
 + SQL Server
 +
 + MySQL
++
++ Visual Studio
++
++ Visual Studio Code
++
++ Jetbrains IntellijIdea
++ 
++ Jetbrains PyCharm
++
++ GitHub
++
++ Git
+
+  # Link to me
+
+  ### GitHub
+
+  ### Telegram
+
+  ### YouTube
+
+  ### SoundCloud
+
+  ### Steam
