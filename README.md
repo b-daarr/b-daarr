@@ -63,7 +63,7 @@
   >
   > .NET SDK
 
-<img src="https://github.com/b-daarr/b-daarr/blob/main/resource/DotNET.svg" style="width: 48px; height: 48px;">
+<img src="https://github.com/b-daarr/b-daarr/blob/main/resource/DotNET.png" style="width: 48px; height: 48px;">
 
 + Linux Kernel
   <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Linux.svg" style="width: 48px; height: 48px;">
