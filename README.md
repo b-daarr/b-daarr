@@ -72,8 +72,7 @@
 
   # Link to me
 
-<center><img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Git.gif" style="width: 100%;" /></center>
+<center><img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Git.gif" style="width: 48px; height: 48px;;" /></center>
 
-| GitHub                                          | Telegram                                    | YouTube                                           | SoundCloud         | Steam         | Reddit         | Email               |
-|-------------------------------------------------|---------------------------------------------|---------------------------------------------------|--------------------|---------------|----------------|---------------------|
-| [`GitHub b-daarr`](https://github.com/b-daarr/) | [`Telegram b-daarr`](https://t.me/b_daarr/) | [`YouTube b-daarr`](https://youtube.com/@b_daarr) | SoundCloud b-daarr | Steam b-daarr | Reddit b-daarr | b.daarr@outlook.com |
+| [`GitHub`](https://github.com/b-daarr/) | [`Telegram`](https://t.me/b_daarr/) | [`YouTube`](https://youtube.com/@b_daarr) | [`SoundCloud`](https://on.soundcloud.com/DvLfxho9rDwbGLAR8) | [`Steam`](https://steamcommunity.com/profiles/76561199808513294) | [`Reddit`](https://reddit.com/u/b-daarr/) | [`Email`](b.daarr@outlook.com`) |
+|-----------------------------------------|-------------------------------------|-------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------------|-------------------------------------------|---------------------------------|
