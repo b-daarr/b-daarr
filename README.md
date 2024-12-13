@@ -1,16 +1,20 @@
-## Hi there 👋
+# About me
 
-<!--
-**b-daarr/b-daarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> My name is b‿daarr (in Persian means 'being awake') and a part of Space Company!
+> I made CShark project to internet sanction bypassing. (more)[https://github.com/cshark]
 
-Here are some ideas to get you started:
+# My climbing targets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
++ Cyber security
+
++ Quantom World
+
+# My abilities
+
++ Web developing (HTML5, CSS, JS, .NET Razor and Blazor)
+
++ Exploit (PowerShell, Bash Shell, Batch Script, Command Prompt)
+
++ Application Developing (C#, Python, Java)
+
++ Database (SQL Server, MySQL)
