@@ -25,13 +25,9 @@
 
 ### Exploit
 
-+ PowerShell
-+
-+ Bash Shell
-+
-+ Batch Script
-+
-+ Command Prompt
+| PowerShell | Bash Shell | Batch Script | Command Prompt |
+|------------|------------|--------------|----------------|
+
 
 ### Application Developing
 
