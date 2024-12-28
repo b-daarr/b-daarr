@@ -20,7 +20,7 @@
 | HTML5 | CSS3 | JavaScript | Markdown |
 |-------|------|------------|----------|
 
-### Exploit
+### Script and Exploit 
 
 | PowerShell | Bash Shell | Batch Script | Command Prompt |
 |------------|------------|--------------|----------------|
