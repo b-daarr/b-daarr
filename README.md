@@ -113,7 +113,7 @@ namespace  QSharpSpace{
     open Microsoft.Quantum.Intrinsic;
 
     operation Space() : Unit {
-        // C#
+        // Q#
         // b‿daarr from SPACE
 
         Message("SPACE");
@@ -121,6 +121,33 @@ namespace  QSharpSpace{
         Message("SQ-LION");
     }
 }
+```
+
+```fs
+// F#
+(* b‿daarr from SPACE *)
+
+printfn "SPACE"
+printfn "C-SHARK"
+printfn "SQ-LION"
+```
+
+```sql
+-- SQL
+/* b‿daarr from SPACE */
+
+SELECT 'SPACE', 'C-SHARK', 'SQ-LION';
+```
+
+```php
+<?php
+// # PHP
+/* b‿daarr from SPACE */
+
+echo "SPACE";
+echo "C-SHARK";
+echo "SQ-LION";
+?>
 ```
 
 ```json
@@ -165,22 +192,4 @@ echo SPACE
 echo C-SHARK
 echo SQ-LION
 pause
-```
-
-```sql
--- SQL
-/* b‿daarr from SPACE */
-
-SELECT 'SPACE', 'C-SHARK', 'SQ-LION';
-```
-
-```php
-<?php
-// # PHP
-/* b‿daarr from SPACE */
-
-echo "SPACE";
-echo "C-SHARK";
-echo "SQ-LION";
-?>
 ```
