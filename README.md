@@ -132,12 +132,17 @@ Write-Output "SQ-LION"
 
 ```sh
 #!/bin/bash
+# Bash shell
+# b‿daarr from SPACE
+
 printf "SPACE"
+printf "C-SHARK"
+printf "SQ-LION"
 ```
 
 ```bat
 @echo off
-:: Batch or Command Prompt
+:: Batch script or Command Prompt
 REM b‿daarr from SPACE
 
 echo SPACE
