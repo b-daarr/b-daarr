@@ -157,3 +157,14 @@ pause
 
 SELECT 'SPACE', 'C-SHARK', 'SQ-LION';
 ```
+
+```php
+<?php
+// # PHP
+/* b‿daarr from SPACE */
+
+echo "SPACE";
+echo "C-SHARK";
+echo "SQ-LION";
+?>
+```
