@@ -137,7 +137,12 @@ printf "SPACE"
 
 ```bat
 @echo off
+:: Batch or Command Prompt
+REM b‿daarr from SPACE
+
 echo SPACE
+echo C-SHARK
+echo SQ-LION
 pause
 ```
 
