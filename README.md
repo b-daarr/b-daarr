@@ -70,7 +70,7 @@
 
 ```py
 # Python
-''' Go-Training; Coming soon '''
+''' b‿daarr from SPACE '''
 
 print("SPACE")
 print("C-SHARK")
@@ -81,7 +81,7 @@ print("SQ-LION")
 public class JavaSpace {
     public static void main(String[] args) {
         // Java
-        /* Go-Training; Coming soon */
+        /* b‿daarr from SPACE*/
 
         System.out.println("SPACE");
         System.out.println("C-SHARK");
@@ -94,12 +94,13 @@ public class JavaSpace {
 {
     "comment" : [
     {
-        "_language" : "Json"
+        "_language" : "Json",
+        "_me" : "b‿daarr from SPACE"
     }]
 
     "company": "SPACE",
-    "project" : "C-SHARK",
-    "
+    01 : "C-SHARK",
+    02 : "SQ-LION"
 }
 ```
 
@@ -110,7 +111,12 @@ class Program
 {
     static void Main()
     {
+        // C#
+        /* b‿daarr from SPACE */
+
         Console.WriteLine("SPACE");
+        Console.WriteLine("C-SHARK");
+        Console.WriteLine("SQ-LION");
     }
 }
 ```
