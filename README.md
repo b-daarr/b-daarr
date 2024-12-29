@@ -99,8 +99,8 @@ public class JavaSpace {
     }]
 
     "company": "SPACE",
-    01 : "C-SHARK",
-    02 : "SQ-LION"
+    "01" : "C-SHARK",
+    "02" : "SQ-LION"
 }
 ```
 
