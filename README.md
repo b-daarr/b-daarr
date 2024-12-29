@@ -78,7 +78,7 @@ print("SQ-LION")
 ```
 
 ```java
-public class HelloWorld {
+public class JavaSpace {
     public static void main(String[] args) {
         // Java
         /* Go-Training; Coming soon */
@@ -92,10 +92,14 @@ public class HelloWorld {
 
 ```json
 {
-    "_language" : "Json",
-    "_comment" : "Go-Training; Coming soon",
+    "comment" : [
+    {
+        "_language" : "Json"
+    }]
 
-    "company": "SPACE"
+    "company": "SPACE",
+    "project" : "C-SHARK",
+    "
 }
 ```
 
