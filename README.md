@@ -1,4 +1,4 @@
-<center><img src="https://github.com/b-daarr/b-daarr/blob/main/resource/footer.svg" style="width: 100%;" /></center>
+<img src="https://github.com/b-daarr/b-daarr/blob/main/resource/footer.svg" style="width: 100%;" />
 
 # About me
 
