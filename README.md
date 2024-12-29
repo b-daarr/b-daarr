@@ -93,7 +93,7 @@ public class JavaSpace {
 ```cs
 using System;
 
-class Program
+class CSharpSpace
 {
     static void Main()
     {
@@ -103,6 +103,22 @@ class Program
         Console.WriteLine("SPACE");
         Console.WriteLine("C-SHARK");
         Console.WriteLine("SQ-LION");
+    }
+}
+```
+
+```qs
+namespace  QSharpSpace{
+    open Microsoft.Quantum.Canon;
+    open Microsoft.Quantum.Intrinsic;
+
+    operation Space() : Unit {
+        // C#
+        // b‿daarr from SPACE
+
+        Message("SPACE");
+        Message("C-SHARK");
+        Message("SQ-LION");
     }
 }
 ```
