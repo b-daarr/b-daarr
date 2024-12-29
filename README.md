@@ -67,3 +67,52 @@
 | [`GitHub`](https://github.com/b-daarr/) | [`YouTube`](https://youtube.com/@b_daarr) | [`SoundCloud`](https://on.soundcloud.com/DvLfxho9rDwbGLAR8) | [`Steam`](https://steamcommunity.com/profiles/76561199808513294) | [`Reddit`](https://reddit.com/u/b-daarr/) | Email: b.daarr@outlook.com |
 |-----------------------------------------|-------------------------------------|-------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------------|-------------------------------------------|
 
+
+```py
+print("SPACE")
+```
+
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("SPACE");
+    }
+}
+```
+
+```json
+{
+    "message": "SPACE"
+}
+```
+
+```cs
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("SPACE");
+    }
+}
+```
+
+```ps1
+Write-Output "SPACE"
+```
+
+```sh
+#!/bin/bash
+printf "SPACE"
+```
+
+```bat
+@echo off
+echo SPACE
+pause
+```
+
+```sql
+SELECT 'SPACE';
+```
