@@ -1,6 +1,4 @@
-<img src="https://github.com/b-daarr/b-daarr/blob/main/resource/footer.svg" style="width: 100%;" />
-
-# About me
+# `About me`
 
 > My name is b‿daarr (in Persian means 'being awake') and a part of Space Company!
 >
@@ -70,6 +68,8 @@
 |-----------------------------------------|-------------------------------------|-------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------------|-------------------------------------------|
 
 ---
+
+<img src="https://github.com/b-daarr/b-daarr/blob/main/resource/footer.svg" style="width: 100%;" />
 
 ```py
 # Python
