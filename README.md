@@ -70,22 +70,32 @@
 
 ```py
 # Python
-'''Go-Training; Coming soon...'''
+''' Go-Training; Coming soon '''
 
 print("SPACE")
+print("C-SHARK")
+print("SQ-LION")
 ```
 
 ```java
 public class HelloWorld {
     public static void main(String[] args) {
+        // Java
+        /* Go-Training; Coming soon */
+
         System.out.println("SPACE");
+        System.out.println("C-SHARK");
+        System.out.println("SQ-LION");
     }
 }
 ```
 
 ```json
 {
-    "message": "SPACE"
+    "_language" : "Json",
+    "_comment" : "Go-Training; Coming soon",
+
+    "company": "SPACE"
 }
 ```
 
