@@ -62,7 +62,9 @@
 + [`GitHub`](https://github.com/)
 + [`Git`](https://git-scm.com/)
 
-# <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Git.gif" style="width: 48px; height: 48px;" /> Link to me
+<img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Git.gif" style="width: 48px; height: 48px;" /> Link to me
+
+---
 
 | [`GitHub`](https://github.com/b-daarr/) | [`YouTube`](https://youtube.com/@b_daarr) | [`SoundCloud`](https://on.soundcloud.com/DvLfxho9rDwbGLAR8) | [`Steam`](https://steamcommunity.com/profiles/76561199808513294) | [`Reddit`](https://reddit.com/u/b-daarr/) | Email: b.daarr@outlook.com |
 |-----------------------------------------|-------------------------------------|-------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------------|-------------------------------------------|
