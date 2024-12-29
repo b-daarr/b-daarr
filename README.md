@@ -69,7 +69,8 @@
 
 
 ```py
-// Python
+# Python
+'''Go-Training; Coming soon...'''
 
 print("SPACE")
 ```
