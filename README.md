@@ -62,7 +62,9 @@
 + [`GitHub`](https://github.com/)
 + [`Git`](https://git-scm.com/)
 
-<img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Git.gif" style="width: 48px; height: 48px;" /> Link to me
+<img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Git.gif" style="width: 48px; height: 48px;" />|
+
+## Link to me
 
 ---
 
