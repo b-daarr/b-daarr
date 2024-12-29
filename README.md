@@ -90,20 +90,6 @@ public class JavaSpace {
 }
 ```
 
-```json
-{
-    "comment" : [
-    {
-        "_language" : "Json",
-        "_me" : "b‿daarr from SPACE"
-    }]
-
-    "company": "SPACE",
-    "01" : "C-SHARK",
-    "02" : "SQ-LION"
-}
-```
-
 ```cs
 using System;
 
@@ -121,8 +107,27 @@ class Program
 }
 ```
 
+```json
+{
+    "comment" : [
+    {
+        "_language" : "Json",
+        "_me" : "b‿daarr from SPACE"
+    }]
+
+    "company": "SPACE",
+    "01" : "C-SHARK",
+    "02" : "SQ-LION"
+}
+```
+
 ```ps1
+# PowerShell
+<# b‿daarr from SPACE #>
+
 Write-Output "SPACE"
+Write-Output "C-SHARK"
+Write-Output "SQ-LION"
 ```
 
 ```sh
