@@ -75,6 +75,19 @@
 # Python
 ''' b‿daarr from SPACE '''
 
+```cpp
+#include <iostream>
+using namespace CPlusPlusSpace;
+    void main() {
+        // C++
+        /* b‿daarr from SPACE */
+
+        cout << "SPACE";
+        cout << "C-SHARK";
+        cout << "SQ-LION";
+    }
+```
+
 print("SPACE")
 print("C-SHARK")
 print("SQ-LION")
