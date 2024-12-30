@@ -73,7 +73,7 @@
 
 ```py
 # Python
-''' b‿daarr from SPACE '''
+""" b‿daarr from SPACE """
 
 print("SPACE")
 print("C-SHARK")
