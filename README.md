@@ -75,6 +75,12 @@
 # Python
 ''' b‿daarr from SPACE '''
 
+print("SPACE")
+print("C-SHARK")
+print("SQ-LION")
+```
+
+
 ```cpp
 #include <iostream>
 using namespace CPlusPlusSpace;
@@ -86,11 +92,6 @@ using namespace CPlusPlusSpace;
         cout << "C-SHARK";
         cout << "SQ-LION";
     }
-```
-
-print("SPACE")
-print("C-SHARK")
-print("SQ-LION")
 ```
 
 ```java
