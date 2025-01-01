@@ -1,14 +1,16 @@
-using System;
-
-class CSharpSpace
+﻿namespace CSharp
 {
-    static void Main()
+    internal class Program
     {
-        // C#
-        /* b‿daarr from SPACE */
+        static void Main()
+        {
+            // C#
+            /* b‿daarr from SPACE */
 
-        Console.WriteLine("SPACE");
-        Console.WriteLine("C-SHARK");
-        Console.WriteLine("SQ-LION");
+            Console.WriteLine("SPACE");
+            Console.WriteLine("C-SHARK");
+            Console.WriteLine("SQ-LION");
+            Console.ReadLine();
+        }
     }
 }
