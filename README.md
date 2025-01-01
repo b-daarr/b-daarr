@@ -1,13 +1,18 @@
-<center><img src="https://github.com/b-daarr/b-daarr/blob/main/resource/footer.svg" style="width: 100%;" /></center>
+# `About me`
 
-# About me
+# <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/00.gif" style="width: 48px; height: 48px;" />
 
 # <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/01.gif" style="width: 48px; height: 48px;" />
 
 > My name is b‿daarr (in Persian means 'being awake') and a part of Space Company!
 >
+<<<<<<< HEAD
 > I made C-SHARK project to internet sanction bypassing [
 `(more about C-SHARK)`](https://github.com/b-daarr/cshark/blob/main/README.md) and SQ-Lion project to ...! (Soon)
+> =======
+> I made C-SHARK project to internet sanction bypassing [
+`(more about C-SHARK)`](https://github.com/b-daarr/cshark/blob/main/README.md) and SQ-LION project to ...! (Soon)
+>> > > > > > b42c02c62925b9af6c382a75d6eda92dafb2ccc5
 
 <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/space.png" alt="Space Company" style="width: 48px; height: 48px; border-radius: 25px;">
 
@@ -23,7 +28,7 @@
 | HTML5 | CSS3 | JavaScript | Markdown |
 |-------|------|------------|----------|
 
-### Exploit
+### Script and Exploit
 
 | PowerShell | Bash Shell | Batch Script | Command Prompt |
 |------------|------------|--------------|----------------|
@@ -65,8 +70,162 @@
 + [`GitHub`](https://github.com/)
 + [`Git`](https://git-scm.com/)
 
+<<<<<<< HEAD
+
 # <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/00.gif" style="width: 48px; height: 48px;" /> Link to me
 
 | [`GitHub`](https://github.com/b-daarr/) | [`Telegram`](https://t.me/b_daarr/) | [`YouTube`](https://youtube.com/@b_daarr) | [`SoundCloud`](https://on.soundcloud.com/DvLfxho9rDwbGLAR8) | [`Steam`](https://steamcommunity.com/profiles/76561199808513294) | [`Reddit`](https://reddit.com/u/b-daarr/) | Email: b.daarr@outlook.com |
 |-----------------------------------------|-------------------------------------|-------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------------|-------------------------------------------|----------------------------|
 
+=======
+
+## <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/Git.gif" style="width: 48px; height: 48px;" /> Ways to contact me
+
+---
+> > > > > > > b42c02c62925b9af6c382a75d6eda92dafb2ccc5
+
+| [`GitHub`](https://github.com/b-daarr/) | [`YouTube`](https://youtube.com/@b_daarr) | [`SoundCloud`](https://on.soundcloud.com/DvLfxho9rDwbGLAR8) | [`Steam`](https://steamcommunity.com/profiles/76561199808513294) | [`Reddit`](https://reddit.com/u/b-daarr/) | Email: b.daarr@outlook.com |
+|-----------------------------------------|-------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------------|-------------------------------------------|----------------------------|
+
+---
+
+<img src="https://github.com/b-daarr/b-daarr/blob/main/resource/footer.svg" style="width: 100%;" />
+
+```py
+# Python
+""" b‿daarr from SPACE """
+
+print("SPACE")
+print("C-SHARK")
+print("SQ-LION")
+```
+
+```cpp
+#include <iostream>
+using namespace CPlusPlusSpace;
+    void main() {
+        // C++
+        /* b‿daarr from SPACE */
+
+        cout << "SPACE";
+        cout << "C-SHARK";
+        cout << "SQ-LION";
+    }
+```
+
+```java
+public class JavaSpace {
+    public static void main(String[] args) {
+        // Java
+        /* b‿daarr from SPACE*/
+
+        System.out.println("SPACE");
+        System.out.println("C-SHARK");
+        System.out.println("SQ-LION");
+    }
+}
+```
+
+```cs
+using System;
+
+class CSharpSpace
+{
+    static void Main()
+    {
+        // C#
+        /* b‿daarr from SPACE */
+
+        Console.WriteLine("SPACE");
+        Console.WriteLine("C-SHARK");
+        Console.WriteLine("SQ-LION");
+    }
+}
+```
+
+```qs
+namespace  QSharpSpace{
+    open Microsoft.Quantum.Canon;
+    open Microsoft.Quantum.Intrinsic;
+
+    operation Space() : Unit {
+        // Q#
+        // b‿daarr from SPACE
+
+        Message("SPACE");
+        Message("C-SHARK");
+        Message("SQ-LION");
+    }
+}
+```
+
+```fs
+// F#
+(* b‿daarr from SPACE *)
+
+printfn "SPACE"
+printfn "C-SHARK"
+printfn "SQ-LION"
+```
+
+```sql
+-- SQL
+/* b‿daarr from SPACE */
+
+SELECT 'SPACE', 'C-SHARK', 'SQ-LION';
+```
+
+```php
+<?php
+// # PHP
+/* b‿daarr from SPACE */
+
+echo "SPACE";
+echo "C-SHARK";
+echo "SQ-LION";
+?>
+```
+
+```json
+{
+    "comment" : [
+    {
+        "_language" : "Json",
+        "_me" : "b‿daarr from SPACE"
+    }]
+
+    "company": "SPACE",
+    "01" : "C-SHARK",
+    "02" : "SQ-LION"
+}
+```
+
+```ps1
+# PowerShell
+<# b‿daarr from SPACE #>
+
+Write-Output "SPACE"
+Write-Output "C-SHARK"
+Write-Output "SQ-LION"
+```
+
+```sh
+#!/bin/bash
+# Bash shell
+# b‿daarr from SPACE
+
+printf "SPACE"
+printf "C-SHARK"
+printf "SQ-LION"
+```
+
+```bat
+@echo off
+:: Batch script or Command Prompt
+REM b‿daarr from SPACE
+
+echo SPACE
+echo C-SHARK
+echo SQ-LION
+pause
+```
