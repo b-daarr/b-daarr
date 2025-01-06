@@ -83,7 +83,7 @@ print("SQ-LION")
 ```cpp
 #include <iostream>
 using namespace CPlusPlusSpace;
-    void main() {
+    static void main() {
         // C++
         /* b‿daarr from SPACE */
 
@@ -95,7 +95,7 @@ using namespace CPlusPlusSpace;
 
 ```java
 public class JavaSpace {
-    public static void main(String[] args) {
+    static void main(String[] args) {
         // Java
         /* b‿daarr from SPACE*/
 
@@ -124,7 +124,7 @@ class CSharpSpace
 ```
 
 ```qs
-namespace  QSharpSpace{
+namespace QSharpSpace{
     open Microsoft.Quantum.Canon;
     open Microsoft.Quantum.Intrinsic;
 
