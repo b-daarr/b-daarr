@@ -82,15 +82,19 @@ print("SQ-LION")
 
 ```cpp
 #include <iostream>
-using namespace CPlusPlusSpace;
-    static void main() {
+using namespace CPP;
+
+class CPlusPlusSpace {
+static:
+    void main() {
         // C++
         /* b‿daarr from SPACE */
 
-        cout << "SPACE";
-        cout << "C-SHARK";
-        cout << "SQ-LION";
+        cout << "SPACE" << endl;
+        cout << "C-SHARK" << endl;
+        cout << "SQ-LION" << endl;
     }
+};
 ```
 
 ```java
