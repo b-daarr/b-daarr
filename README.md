@@ -98,7 +98,7 @@ static:
 ```
 
 ```java
-public class JavaSpace {
+class JavaSpace {
     static void main(String[] args) {
         // Java
         /* b‿daarr from SPACE*/
