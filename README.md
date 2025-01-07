@@ -213,5 +213,3 @@ echo C-SHARK
 echo SQ-LION
 pause
 ```
-
-# <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/01.gif" style="width: 48px; height: 48px;" />
