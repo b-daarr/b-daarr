@@ -6,12 +6,12 @@
 
 <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/space.png" alt="Space Company" style="width: 48px; height: 48px; border-radius: 25px;">
 
-# <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/02.gif" style="width: 48px; height: 48px;" /> My climbing targets
+# My climbing targets
 
 | Cyber security | Quantum World |
 |----------------|---------------|
 
-# My abilities
+# <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/02.gif" style="width: 48px; height: 48px;" /> My abilities
 
 ### Web developing
 
