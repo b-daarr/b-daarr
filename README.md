@@ -1,6 +1,6 @@
 # About me
 
-> My name is b‿daarr (in Persian means 'being awake') and a part of Space Company!
+> My name is b‿daarr (in Persian means 'being awake') and a part of Quasar Company!
 > I made C-SHARK project to internet sanction bypassing [
 `(more about C-SHARK)`](https://github.com/b-daarr/C-SHARK/blob/main/README.md).
 
