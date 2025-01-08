@@ -28,7 +28,7 @@
 | C# | Python | Java |
 |----|--------|------|
 
-# About my programming
+# <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/01.gif" style="width: 48px; height: 48px;" /> About my programming
 
 ### OS Developing Applications
 
