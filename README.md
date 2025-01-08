@@ -6,7 +6,7 @@
 
 <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/space.png" alt="Space Company" style="width: 48px; height: 48px; border-radius: 25px;">
 
-# My climbing targets
+# <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/02.gif" style="width: 48px; height: 48px;" /> My climbing targets
 
 | Cyber security | Quantum World |
 |----------------|---------------|
@@ -60,7 +60,7 @@
 + [`GitHub`](https://github.com/)
 + [`Git`](https://git-scm.com/)
 
-## <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/00.gif" style="width: 48px; height: 48px;" /> Ways to contact me
+# <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/00.gif" style="width: 48px; height: 48px;" /> Ways to contact me
 
 ---
 
