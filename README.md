@@ -6,17 +6,15 @@
 
 <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/space.png" alt="Space Company" style="width: 48px; height: 48px; border-radius: 25px;">
 
-# My climbing targets
+# My World
 
-| Cyber Security | Quantum World |
-|----------------|---------------|
+| **Targets** | Cyber Security | Quantum World |
+|----------------|---------------|---|
 
 # <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/02.gif" style="width: 48px; height: 48px;" /> My abilities
 
-### Web developing
-
-| HTML5 | CSS3 | JavaScript | Markdown |
-|-------|------|------------|----------|
+| Web | HTML5 | CSS3 | JavaScript | Markdown |
+|-------|------|------------|----------|---|
 
 ### Script and Exploit
 
