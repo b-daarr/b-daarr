@@ -8,7 +8,7 @@
 
 # <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/01.gif" style="width: 48px; height: 48px;" /> My World
 
-| Cyber Security | Quantum World | PowerShell | Bash Shell | Batch Script | Command Prompt | HTML5 | CSS3 | JavaScript | Markdown | C# | Python | Java | SQL | Windows| Linux | Android | .NET Framework | .NET SDK | 
+| Cyber Security | Quantum | PowerShell | Bash Shell | Batch Script | Command Prompt | HTML5 | CSS3 | JavaScript | Markdown | C# | Python | Java | SQL | Windows| Linux | Android | .NET Framework | .NET SDK | 
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 # <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/02.gif" style="width: 48px; height: 48px;" /> Ways to contact me
