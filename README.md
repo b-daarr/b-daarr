@@ -8,40 +8,8 @@
 
 # My World
 
-| Cyber Security | Quantum World | PowerShell | Bash Shell | Batch Script | Command Prompt | HTML5 | CSS3 | JavaScript | Markdown | C# | Python | Java | Windows| Linux | Android | .NET Framework | .NET SDK | 
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-
-# <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/01.gif" style="width: 48px; height: 48px;" /> About my programming
-
-### OS Developing Applications
-
-| Windows |
-|---------|
-
-> [`.NET Framework`](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
->
-> [`.NET SDK`](https://dotnet.microsoft.com/en-us/download)
-
-| Linux |
-|-------|
-
-> Debian base dists
-
-| Android |
-|---------|
-
-> Android app
-
-### Tool Applications
-
-+ [`SQL Server`](https://learn.microsoft.com/en-us/sql/ssms/)
-+ [`MySQL`](https://www.mysql.com/)
-+ [`Visual Studio`](https://visualstudio.microsoft.com/)
-+ [`Visual Studio Code`](https://code.visualstudio.com/)
-+ [`Jetbrains IntellijIdea`](https://www.jetbrains.com/idea/)
-+ [`Jetbrains PyCharm`](https://www.jetbrains.com/pycharm/)
-+ [`GitHub`](https://github.com/)
-+ [`Git`](https://git-scm.com/)
+| Cyber Security | Quantum World | PowerShell | Bash Shell | Batch Script | Command Prompt | HTML5 | CSS3 | JavaScript | Markdown | C# | Python | Java | SQL | Windows| Linux | Android | .NET Framework | .NET SDK | 
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 # <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/00.gif" style="width: 48px; height: 48px;" /> Ways to contact me
 
