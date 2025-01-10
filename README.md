@@ -11,7 +11,7 @@
 
 # <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/02.gif" style="width: 48px; height: 48px;" />
 
-<img src="https://github.com/b-daarr/b-daarr/blob/main/resource/footer.svg" style="width: 100%;" />
+# <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/footer.svg" style="width: 100%;" />
 
 ```py
 # Python
