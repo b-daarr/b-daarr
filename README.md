@@ -15,7 +15,7 @@
 
 ---
 
-| [`GitHub`](https://github.com/b-daarr/) | [`YouTube`](https://youtube.com/@b_daarr) | [`SoundCloud`](https://on.soundcloud.com/DvLfxho9rDwbGLAR8) | [`Steam`](https://steamcommunity.com/profiles/76561199808513294) | [`Reddit`](https://reddit.com/u/b-daarr/) | Email: <a href="mailto:b-daarr@outlook.com?subject=Hi b-daarr!">`b-daarr@outlook.com`</a> |
+| [`GitHub`](https://github.com/b-daarr/) | [`YouTube`](https://youtube.com/@b_daarr) | [`SoundCloud`](https://on.soundcloud.com/DvLfxho9rDwbGLAR8) | [`Steam`](https://steamcommunity.com/profiles/76561199808513294) | [`Reddit`](https://reddit.com/u/b-daarr/) | <a href="mailto:b-daarr@outlook.com?subject=Hi b-daarr!">`b-daarr@outlook.com`</a> |
 |-----------------------------------------|-------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------------|-------------------------------------------|----------------------------|
 
 ---
