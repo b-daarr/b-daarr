@@ -8,7 +8,7 @@
 
 # My climbing targets
 
-| Cyber security | Quantum World |
+| Cyber Security | Quantum World |
 |----------------|---------------|
 
 # <img src="https://github.com/b-daarr/b-daarr/blob/main/resource/02.gif" style="width: 48px; height: 48px;" /> My abilities
