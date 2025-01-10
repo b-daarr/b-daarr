@@ -10,13 +10,12 @@
 
 | **Targets** | Cyber Security | Quantum World |
 |-------------|----------------|---------------|
-| Web | HTML5 | CSS3 | JavaScript | Markdown |
-|-----|-------|------|------------|----------|
 
-### Script and Exploit
+| **Web** | HTML5 | CSS3 | JavaScript | Markdown |
+|---------|-------|------|------------|----------|
 
-| PowerShell | Bash Shell | Batch Script | Command Prompt |
-|------------|------------|--------------|----------------|
+| **Script** | PowerShell | Bash Shell | Batch Script | Command Prompt |
+|------------|------------|--------------|----------------|---|
 
 ### Application Developing
 
